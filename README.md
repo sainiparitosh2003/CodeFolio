@@ -37,4 +37,4 @@ You can view it live [here](https://sainiparitosh2003.github.io/CodeFolio/).
 
 ## **Contact**
 
-Feel free to reach out to me via email at [sainiparitosh6@gmail.com](mailto:sainiparitosh6@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+Feel free to reach out to me via email at [sainiparitosh6@gmail.com](mailto:sainiparitosh6@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/paritosh-saini-90429322a/).
